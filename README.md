@@ -1,0 +1,2 @@
+# AngularTemplate
+Shoes shop template
